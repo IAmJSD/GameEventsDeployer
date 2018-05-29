@@ -1,0 +1,6 @@
+-e git+https://github.com/Kelwing/discord.py.git@181dcb8dfc21cbb389f48c8ca27a6ba9a3e6b1fe#egg=discord.py
+pyyaml
+dopy
+yarl<1.2
+six
+requests

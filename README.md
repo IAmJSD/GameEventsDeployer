@@ -1,1 +1,2 @@
-GameEventsDeployer
+# Game Events Deployer
+This is a script that I wrote to deploy a DigitalOcean droplet via a build script and then kill said VPS after a set amount of time. This is used in a bot on the LGBTQ+ Lounge for game servers but could be used for various purposes. In order to setup this script, make a folder named "build_scripts", make your bash build scripts in there (they MUST end in `.sh`) and then fill out the config.yaml. Then you can tag the bot to see help.

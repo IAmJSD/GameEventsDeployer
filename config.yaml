@@ -1,0 +1,17 @@
+DISCORD_TOKEN: ""
+# Your Discord bot token.
+
+DIGITALOCEAN_API_KEY: ""
+# Your DigitalOcean API key.
+
+BOT_MAINTAINERS:
+  - 280610586159611905
+# A list of the maintainers for the bot.
+
+ALLOWED_CHANNELS:
+  - 339761616289792000
+# A list of allowed channels for the bot.
+
+ALLOWED_ROLES:
+  - 371598633767927808
+# A list of allowed roles for the bot.
